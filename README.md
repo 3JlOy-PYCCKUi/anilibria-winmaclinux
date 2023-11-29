@@ -87,7 +87,7 @@ $ sudo apt-get install -f
     users.users.bob.packages = with pkgs; [ anilibria-winmaclinux ];
     ```
 
-### [Nix](https://github.com/anilibria/anilibria-winmaclinux/blob/master/nix.md)
+### [Nix](nix.md)
 
 ### Flatpak
 Скачайте flatpack пакет со страницы релиза и выполните следующую команду:
